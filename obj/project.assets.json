@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\Odev2\\Odev2.csproj",
+      "projectUniqueName": "D:\\repos\\Fatih-Emirhan-Gungor-Odev2\\Odev2.csproj",
       "projectName": "Odev2",
-      "projectPath": "D:\\repos\\Odev2\\Odev2.csproj",
+      "projectPath": "D:\\repos\\Fatih-Emirhan-Gungor-Odev2\\Odev2.csproj",
       "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\Odev2\\obj\\",
+      "outputPath": "D:\\repos\\Fatih-Emirhan-Gungor-Odev2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
